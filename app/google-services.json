@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "695063606048",
+    "firebase_url": "https://produtossenac.firebaseio.com",
+    "project_id": "produtossenac",
+    "storage_bucket": "produtossenac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695063606048:android:a3f79ec4772cbada42dd45",
+        "android_client_info": {
+          "package_name": "br.com.emmanoel.produtos.crudprodutossenac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695063606048-qmv9un4pif59mj1k86v91nsuhuinoit8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC12iUz4wBhO53suMNngBv7LaJUwggNHqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695063606048-qmv9un4pif59mj1k86v91nsuhuinoit8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695063606048:android:7590a8289a3e16e542dd45",
+        "android_client_info": {
+          "package_name": "br.com.emmanoel.produtos.senac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695063606048-qmv9un4pif59mj1k86v91nsuhuinoit8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC12iUz4wBhO53suMNngBv7LaJUwggNHqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695063606048-qmv9un4pif59mj1k86v91nsuhuinoit8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
